@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anantkali
+- 👋 Hi, I’m @Anant
 - 👀 I’m interested in making new things
 - 🌱 I’m currently learning linux , java
 - 💞️ I’m looking to collaborate on web_api
